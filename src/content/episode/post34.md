@@ -1,6 +1,6 @@
 ---
 title: Unlocking Productivity- A Deep Dive into N8N Automation
-audioUrl: https://drive.google.com/uc?export=download&id=1hZbkIKIUsg0hMDmxeND3ny4IFnEL54CJ
+audioUrl: https://drive.google.com/uc?id=1hZbkIKIUsg0hMDmxeND3ny4IFnEL54CJ&export=download
 pubDate: Sep 10 2022
 duration: 01:00
 size: 0.7

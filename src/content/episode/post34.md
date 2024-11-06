@@ -4,7 +4,7 @@ audioUrl: https://drive.google.com/uc?id=16gGg6aJ8ZvThDZA-uEKpbIG7B0ZS0Egy
 pubDate: Sep 10 2022
 duration: 01:00
 size: 0.7
-cover: https://drive.google.com/uc?id=144w-dl4vvf3klC9rB9CqgccIeJgQsAhf
+cover: https://drive.usercontent.google.com/download?id=144w-dl4vvf3klC9rB9CqgccIeJgQsAhf&authuser=1
 explicit: false
 episode: 1
 season: 1

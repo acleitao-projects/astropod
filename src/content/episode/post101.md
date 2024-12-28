@@ -1,7 +1,7 @@
 ---
 title: DeepSeek V3- The Game-Changer in AI Technology
 audioUrl: https://acltechnologies.biz/wp-content/uploads/file-93.mp3
-pubDate: 2024-12-28
+pubDate: 28 Dec 2024
 duration: 13:54
 size: 13.4
 cover: https://acltechnologies.biz/wp-content/uploads/file-93.png
